@@ -15,4 +15,5 @@ In this repository you can find our presentation and notebook dedicated to data 
 ## Visualisation types:
 1) scatterplot
 2) histogram 
-
+## Authors credits
+A project by Alina Ilyukhina and Daria Plishko
